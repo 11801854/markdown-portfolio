@@ -1,1 +1,16 @@
-Replace this with a list of your favorite things.
+A list of my favorite things:
+- 👪
+  - 🐱
+  - 🐶
+  - 👶
+- 💻
+- hobbies
+  - 🥘
+  - 📚
+  - 👞
+
+In order, these are my favorite flavors of ice cream:
+1. Chocolate
+2. Rocky Road
+3. Strawberry
+4. vanilla with cherries and chocolate sauce
